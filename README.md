@@ -1,3 +1,3 @@
-# ProgFuncional
+# Functional Programming - Haskell
 
-## Linguagem Haskell
+## Resolving the haskell exercise - Odd or Even? 
